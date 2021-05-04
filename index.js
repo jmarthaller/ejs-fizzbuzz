@@ -1,4 +1,4 @@
-for (let x = 1; x <= 101; x++) {
+for (let x = 1; x < 101; x++) {
     let output = "";
     if (x % 3 == 0) {
         output += "Fizz";
